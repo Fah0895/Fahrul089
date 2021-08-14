@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/Fah0895/Fahrul089"
   },
   "keywords": [
     "k"
-  ],
+  ],"git+https://github.com/Fah0895/Fahrul089"
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/Fah0895/Fahrul089/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "git+https://github.com/Fah0895/Fahrul089""#readme"
 }
