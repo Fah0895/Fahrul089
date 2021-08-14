@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fah0895/Fahrul089"
+    "url": ""git+https://github.com/Fah0895/Fahrul089""
   },
   "keywords": [
     "k"
-  ],"https://github.com/Fah0895/Fahrul089"
+  ],"
   "author": "Fahrul GG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fah0895/Fahrul089/issues"
+    "url": "https://github.com/Fah0895/Fahrul089"/issues"
   },
-  "homepage": "https://github.com/Fah0895/Fahrul089""#readme"
+  "homepage": "https://github.com/Fah0895/Fahrul089"#readme"
 }
